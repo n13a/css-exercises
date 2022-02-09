@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(255, 149, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#secElem {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+
+}
+#fourElem {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
